@@ -1,0 +1,12 @@
+{
+  "name": "Hello Mozilla",
+  "description": "Zilla"
+  "launch_path": "/hellozilla",
+  "icons": {
+  },
+  "developer": {
+    "name": "Miguel Paraz"
+    "url": "http://mparaz.com"
+  },
+  "default_locale": "en"
+}
