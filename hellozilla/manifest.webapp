@@ -1,6 +1,6 @@
 {
   "name": "Hello Mozilla",
-  "description": "Zilla"
+  "description": "Zilla",
   "launch_path": "/hellozilla",
   "icons": {
   },
